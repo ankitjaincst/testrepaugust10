@@ -1,16 +1,16 @@
 line1
 line2
-chnage 2
-<<<<<<< HEAD
+
 dsd
 ds
-ds
-ds
-d
-sdage made 1
+ds ankit
+ankit
+dsankit
 
-hellosir
 
+hellosirankit
+
+asasaankit
 i edited just now
 ffsfsdfs
 i edited gaina
