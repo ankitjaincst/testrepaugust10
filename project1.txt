@@ -1,16 +1,20 @@
 line1
 line2
 chnage 2
+<<<<<<< HEAD
 dsd
 ds
 ds
 ds
 d
 sdage made 1
+
 hellosir
 
 i edited just now
-
+ffsfsdfs
 i edited gaina
 dsdsdsd
 
+
+hello dfsfdsfs
