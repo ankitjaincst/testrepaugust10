@@ -1,3 +1,5 @@
 newfile1.txt line 1
 
-line  added
+line  
+
+new line 1
