@@ -1,0 +1,14 @@
+name ankit
+age 24
+college Guwhati
+home Jaipur
+pastoffice oracle
+place goa
+friends aa bb ccc
+likes movies sports
+food indian
+goa indiagate
+goa airport
+goa noida
+goa gurgaon
+
