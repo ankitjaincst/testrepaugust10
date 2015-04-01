@@ -3,3 +3,5 @@ testingignore2.txt
 line added to ignore 2
 
 line again
+
+line from windows
