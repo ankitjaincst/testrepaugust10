@@ -31,8 +31,10 @@ project2.txt.txt
 likes movies sports
 food indian
 goa indiagate
+
 goa airport 76767676767676767
 goa noida   878787878787
+
 goa gurgaon
 test 3
 ddsdsdsd
