@@ -1,1 +1,3 @@
 testingignore2.txt
+
+line added to ignore 2
