@@ -2,24 +2,6 @@ master 23:46 line 1
 
 master pro 00:06 line 2
 
-apple
 
-bb 
-
-ank likes apple
-ank likes mango
-ank likes cricket
-mango
-
-banana
-
-melon
-
-
-cdn 
-
-aam
-
-adrak
-baigan
+hello
 
