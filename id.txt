@@ -1,14 +1,77 @@
-name ankit
+=====1i
 age 24
-college Guwhati
-home Jaipur
-pastoffice oracle
-place goa
-friends aa bb ccc
+collfdfd
+copyid.txt
+dir1
+dir2
+dir3
+dir4
+dir5
+file2.txt
+file3.txtboa
+id.txt
+ignoreme.txt
+ig.txt
+m1.a
+m2.a
+m3.a
+m3.b   boa 
+m4file3.txt.a
+m               5.a
+n               ewfileagain.txx
+n               ewfile.txt
+onefile.tar
+pro1.txt
+~
+.txt.txt
+ege 
+home                Jaipur
+past               office oracle
+plac               e boa
+f
 likes movies sports
-food indian
-goa indiagate
-goa airport
-goa noida
-goa gurgaon
+food                indian
+pasto               ffice oracle
+jaipur indiagate
+ccc
+jaipur noida
+jaipur gurgaon loa
+loa
+i inserted conetn
+schcwooling at patna
+ank fcw aman ajay
+cccw
+ank salary 12
+zom
+zim
+zum
+ztm 
+zvm
 
+
+pastoffice oracle
+copyid.txt
+dir1
+dir2
+dir3
+dir4
+dir5
+file2.txt
+file3.txt
+id.txt
+ignoreme.txt
+ig.txt
+m1.a
+m2.a
+m3.a
+m3.b
+m4.a
+m5.a
+newfileagain.txx
+newfile.txt
+onefile.tar
+pro1.txt
+project1.txt~
+project2.txt.txt
+ 14  28 170 id.txt
+  82  130 1056 id.txt

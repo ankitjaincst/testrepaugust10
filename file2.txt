@@ -1,0 +1,37 @@
+=====2i
+age 24
+college Guwhati
+age 24
+home Jaipur
+pastoffice oracle
+place goa
+friends aa bb ccc
+place goa
+place goa
+copyid.txt
+dir1
+dir2
+dir3
+dir4
+dir5
+id.txt
+ignoreme.txt
+ig.txt
+m1.a
+m2.a
+m3.a
+m3.b
+m4.a
+m5.a
+newfile.txt
+onefile.tar
+pro1.txt
+project1.txt~
+project2.txt.txt
+likes movies sports
+food indian
+goa indiagate
+goa airport
+goa noida
+goa gurgaon
+
