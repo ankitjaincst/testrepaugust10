@@ -32,8 +32,8 @@ likes movies sports
 food indian
 goa indiagate
 
-goa airport 76767676767676767
-goa noida   878787878787
+goa airport 76767676767676767 windows
+goa noida   878787878787 windows
 
 goa gurgaon
 test 3
